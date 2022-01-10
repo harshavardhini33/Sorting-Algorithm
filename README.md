@@ -61,10 +61,12 @@ print(value)
 
 ## Output:
 #Selection Sort
-![chaw](har.png)
+![chaw](https://user-images.githubusercontent.com/93427208/148782457-3522582c-4862-455c-8c4b-e9c3043acce0.png)
+)
 
 #Insertion Sort
-![python](./harr.png)
+![python](https://user-images.githubusercontent.com/93427208/148782476-75396305-aab6-450f-8205-cabc37104c1c.png)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming
