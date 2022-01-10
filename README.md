@@ -64,7 +64,7 @@ print(value)
 ![chaw](har.png)
 
 #Insertion Sort
-![python](harr.png)
+![python](./harr.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming
