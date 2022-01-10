@@ -61,7 +61,7 @@ print(value)
 
 ## Output:
 #Selection Sort
-![chaw](./har.png)
+![chaw](har.png)
 
 #Insertion Sort
 ![python](harr.png)
